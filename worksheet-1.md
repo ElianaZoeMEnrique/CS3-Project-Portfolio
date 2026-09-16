@@ -11,7 +11,7 @@
 | **Proposed Project Title** |         |
 | **Team Members**           | 1.      |
 |                            | 2. Audrey Ysabel Q. Salvo|
-|                            | 3.      |
+|                            | 3. Mickael Fermil S. Daradar|
 |                            | 4.      |
 |                            | 5.      |
 |                            | 6.      |
@@ -23,7 +23,7 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+The current way people could be permitted to do exams from officials is the use of the clearance. A student would be in charge of this clearance, which has 30 papers, each containing a spreadsheet where a subject teacher, personnel, and finally the Director would put their signature on. The student would have to find each one of the respective school personnel, whether it be the librarian, a teacher, or even the dormitory manager, and hope that they would sign all of your papers so that everyone in your class could take the quarterly examination.
 
 <br>
 
@@ -44,11 +44,11 @@ The purpose of the process is to create an easy and orderly structure for the sc
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    | Get the clearance | A selected student, usually the class's prince |
+| 2    | Find a teacher / school personnel | Student and respective personnel                     |
+| 3    | Let the personnel sign each one of the papers of said clearance              |  Student and respective personnel                    |
+| 4    | If one paper has one section that hasn't been signed, let the affected student comply              | Affected student                     |
+| 5    | Repeat steps 2-3, until the Director signs the clearance              | All succeeding personnel, and the Director                     |
 
 ---
 
