@@ -70,7 +70,7 @@ The manual signing, physical tracking, and physical routing of the clearance for
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+The system will digitize and automate the school clearance process. It allows students to submit clearance requirements online, view their real-time approval status for each office, and enables authorized school personnel/offices to digitally sign off on student clearances.
 
 <br>
 
@@ -78,8 +78,8 @@ The manual signing, physical tracking, and physical routing of the clearance for
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1.  Students      |   Track clearance status, view pending office requirements, and submit digital forms or requests.           |
+| 2. School Personnels      |   Review student submissions, update clearance statuses, and issue digital sign-offs/approvals.            |
 
 ### 3. What are the essential features?
 
