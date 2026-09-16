@@ -63,6 +63,7 @@ Long lines and congestion outside offices during the end-of-quarter crunch. Phys
 ### 2. Which part of the process could be improved or automated?
 
 The manual signing, physical tracking, and physical routing of the clearance form from office to office.
+
 ---
 
 ## 4. Propose a Simple Solution
