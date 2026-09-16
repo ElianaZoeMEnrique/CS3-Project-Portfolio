@@ -29,7 +29,7 @@ The current way people could be permitted to do exams from officials is the use 
 
 ### 2. What is the purpose of this process?
 
-The purpose of the process is to create an easy and orderly structure for the scholars and staff members to follow when in comes to giving scholars official approval to continue with the examinations and succeeding activities. It makes sure that each scholar gets the official approval, in the form of signatures, from the offices that the individual's respective clearance requires.
+The purpose of the process is to create an easy and orderly structure for the scholars and staff members to follow when in comes to giving scholars official approval to continue with the examinations. It makes sure that each scholar gets the official approval, in the form of a signature, from each of the offices that the individual's respective clearance requires.
 
 ### 3. Who are involved in the process?
 
