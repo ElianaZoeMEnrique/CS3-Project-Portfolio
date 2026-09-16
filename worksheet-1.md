@@ -10,7 +10,7 @@
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
 | **Team Members**           | 1.      |
-|                            | 2.      |
+|                            | 2. Audrey Ysabel Q. Salvo|
 |                            | 3.      |
 |                            | 4.      |
 |                            | 5.      |
@@ -29,9 +29,7 @@
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
-
-<br>
+The purpose of the process is to create an easy and orderly structure for the scholars and staff members to follow when in comes to giving scholars official approval to continue with the examinations and succeeding activities. It makes sure that each scholar gets the official approval, in the form of signatures, from the offices that the individual's respective clearance requires.
 
 ### 3. Who are involved in the process?
 
