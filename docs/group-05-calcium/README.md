@@ -2,13 +2,13 @@
 
 ## Members
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Eliana Zoe M. Enrique
+2. Audrey Ysabel Q. Salvo
+3. Mickael Fermil S. Daradar
+4. Paolo Joseph S. Polinar
+5. Sophie Tiffany S. Gee
+6. Zachary Ashton G. Bello
 
 ## Project Title
 
-_To be determined._
+Digital Clearance Management System
