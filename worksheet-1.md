@@ -23,7 +23,7 @@
 
 ### 1. What process did you observe?
 
-The current way students could be permitted to take exams is through the use of a clearance. An assigned student would be in charge of this clearance, which has 30 papers, each containing a table where a subject teacher, personnel, and finally the Director would put their signatures. The assigned student would have to find each of the respective school personnel, whether it is the librarian, a teacher, or even the dormitory manager, and have them sign all of the papers so that everyone in the class could take the quarterly examination.
+The current way students could be permitted to take exams is through the use of a clearance. An assigned student would be in charge of this clearance, which has 30 papers, each containing a table where a subject teacher, personnel, and finally the Director would put their signatures. The assigned student would have to find each of the respective school personnel, whether it is the librarian, a teacher, or even the dormitory manager, and have them sign all of the papers so that all students in the class could take the quarterly examination.
 
 ### 2. What is the purpose of this process?
 
@@ -44,7 +44,7 @@ The purpose of the process is to provide an easy and orderly structure for the s
 | ---- | ------------- | -------------------- |
 | 1    | Obtain the class clearance | A selected student, usually the assigned class representative |
 | 2    | Find a teacher / school personnel | Student and respective personnel                     |
-| 3    | Let the personnel sign the appropriate students' papers in the clearance           |  Student and respective personnel                    |
+| 3    | Personnel signs the appropriate students' papers in the clearance           |  Student and respective personnel                    |
 | 4    | If one paper has a section that hasn't been signed, the affected student must comply with and complete the corresponding requirement              | Affected student                     |
 | 5    | Repeat steps 2-3 until the Director signs the clearance              | All succeeding personnel and the Director                     |
 
