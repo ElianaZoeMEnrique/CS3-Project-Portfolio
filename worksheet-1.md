@@ -33,10 +33,10 @@ The purpose of the process is to provide an easy and orderly structure for the s
 
 **(Up to two roles only.)**
 
-| Person/Role | Responsibility in the Process |
-| ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| Person/Role                | Responsibility in the Process                                                  |
+| -------------------------- | ------------------------------------------------------------------------------ |
+| 1. Student                 |  In charge of clearance and handling to sign them by the teachers              |
+| 2. School Personnel        |  Signing of the clearance                                                      |
 
 ### 4. What are the steps in the current process?
 
