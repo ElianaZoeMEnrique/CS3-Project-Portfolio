@@ -31,7 +31,7 @@ The purpose of the process is to provide an easy and orderly structure for the s
 
 ### 3. Who are involved in the process?
 
-**(Up to two roles only.)**
+
 
 | Person/Role                | Responsibility in the Process                                                  |
 | -------------------------- | ------------------------------------------------------------------------------ |
